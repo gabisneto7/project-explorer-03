@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+header{
+    font-family: Mulish;
+    font-size: 18px;
+    color: #7D7987;
+}
+
+header > nav > ul > li{
+    list-style: none;
+}
+
+main{
+    font-family: Open Sans;
+    font-size: 14px;
+    color: #7D7987;
+}
+
+footer{
+    font-family: Open Sans;
+    font-size: 14px;
+    text-align: center;
+}
+
+section{
+    font-family: Mulish;
+    font-size: 49px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.li-bold{
+    font-weight: bold;
+    color: #1F1534; 
+}
+
+.title-bold{
+    font-weight: bold;
+    color: #89C5CC;
+}
+
+.main-bold{
+    font-weight: bold;
+}
+
+.footer-bold{
+    font-weight: bold;
+}
